@@ -1,0 +1,21 @@
+{
+    "name": "d3skdev-dark",
+    "displayName": "d3skdev-dark",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "D3skdev Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/D3skdev Dark-color-theme.json"
+            }
+        ]
+    }
+}
