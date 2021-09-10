@@ -2,7 +2,8 @@
     "name": "d3skdev-dark",
     "displayName": "d3skdev-dark",
     "description": "",
-    "version": "0.0.1",
+    "repository": "https://github.com/d3skdev/vscode-d3skdev-dark-theme",
+    "version": "0.0.2",
       "publisher": "D3skDev",
   "author": {
       "name": "d3skDev",
